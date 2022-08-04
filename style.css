@@ -25,6 +25,12 @@ body{
 
 .menu p{
     margin:0 10px;
+    display: flex;
+    align-items: center;
+}
+
+.menu .fa-solid{
+    transition: transform .2s;
 }
 
 .social-lists{
