@@ -14,7 +14,7 @@ body{
 .menu{
     background-color: lightgrey;
     width:300px;
-    opacity: 0.3;
+    opacity: 0.8;
     border-radius: 5px;
     display: flex;
     align-items: center;
@@ -37,7 +37,7 @@ body{
     background-color: lightgray;
     width:300px;
     padding:10px;
-    opacity: 0.3;
+    opacity: 0.6;
     /* Remove the lists */
     list-style-type:none;
     /* Remove the lists */
@@ -49,8 +49,7 @@ body{
     align-items: center;
     cursor: pointer;
     transition: padding 0.2s linear;
-    
-}
+    }
 
 .social-lists li:hover{
     background-color: darkgray;
